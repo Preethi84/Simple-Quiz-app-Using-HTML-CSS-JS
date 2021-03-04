@@ -1,0 +1,28 @@
+[
+    {
+        "question":"Inside which HTML element do we put the javascript??",
+        "choice1":"<script>",
+        "choice2":"<javascript>",
+        "choice3":"<js>",
+        "choice4":"<scripting>",
+        "answer":1
+    },
+
+    {
+        "question":"What is HTML ??",
+        "choice1":"Programming language",
+        "choice2":"Markup language",
+        "choice3":"Query Language",
+        "choice4":"None of the above",
+        "answer":2
+    },
+
+    {
+        "question":"How do write 'Hello world' in an alert box?",
+        "choice1":"msgBox('Hello world');",
+        "choice2":"alertBox('Hello world');",
+        "choice3":"msg('Hello world');",
+        "choice4":"alert('Hello world');",
+        "answer":4
+    }
+]
